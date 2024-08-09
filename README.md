@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
@@ -24,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
