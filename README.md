@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
