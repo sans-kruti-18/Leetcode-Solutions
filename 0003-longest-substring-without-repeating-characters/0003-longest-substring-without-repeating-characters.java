@@ -27,3 +27,4 @@ class Solution {
         return (maxLen==Integer.MIN_VALUE)?0:maxLen;
     }
 }
+
