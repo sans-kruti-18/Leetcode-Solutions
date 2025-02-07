@@ -11,13 +11,13 @@ class Solution {
             }
         }
 
-        // If no breakpoint is found, reverse the whole array
+        // no breakpoint is found, reverse the whole array
         if (ind == -1) {
             reverse(nums, 0, n - 1);
             return;
         }
 
-        // Step 2: Find the next greater element to swap with nums[ind]
+        // next greater element to swap with nums[ind]
         for (int i = n - 1; i > ind; i--) {
             if (nums[i] > nums[ind]) {
                 swap(nums, i, ind);
@@ -25,7 +25,7 @@ class Solution {
             }
         }
 
-        // Step 3: Reverse the portion after the breakpoint
+        // reverse the portion after the breakpoint
         reverse(nums, ind + 1, n - 1);
     }
 
