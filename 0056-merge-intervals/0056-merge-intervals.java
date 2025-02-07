@@ -1,44 +1,26 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        //sorting
-        for(int i=0;i<intervals.length-1;i++)
-        {
-            int flag=0;
-            for(int j=0;j<intervals.length-1;j++)
-            {
-                if(intervals[j][0]>intervals[j+1][0])
-                {
-                    //swap
-                    int temp[]= new int[2];
-                    temp[0]=intervals[j][0];
-                    temp[1]=intervals[j][1];
-                    intervals[j][0]=intervals[j+1][0];
-                    intervals[j][1]=intervals[j+1][1];
-                    intervals[j+1][0]=temp[0];
-                    intervals[j+1][1]=temp[1];
-                    flag=1;
-                }
-            }
-            if(flag==0)
-             break;
-        }
+        
+         if (intervals.length == 0) return new int[0][];
+        
+        // Step 1: Sort the intervals based on the start time
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        List<int[]> res = new ArrayList<>();
-        int current_interval[]=intervals[0];
-        res.add(current_interval);
-        for(int i=0;i<intervals.length;i++)
-        {
-            if(intervals[i][0]<=current_interval[1])
-            {
-                current_interval[1]=Math.max(current_interval[1],intervals[i][1]);
-            }
-            else
-            {
-                current_interval=intervals[i];
-                res.add(current_interval);
+        List<int[]> merged = new ArrayList<>();
+
+        // Step 2: Merge overlapping intervals
+        for (int[] interval : intervals) {
+            // If the list is empty or the current interval does not overlap, add it
+            if (merged.isEmpty() || interval[0] > merged.get(merged.size() - 1)[1]) {
+                merged.add(interval);
+            } 
+            // If there is an overlap, merge with the last interval
+            else {
+                merged.get(merged.size() - 1)[1] = Math.max(merged.get(merged.size() - 1)[1], interval[1]);
             }
         }
 
-        return res.toArray(new int[res.size()][]);
+        // Convert List<int[]> to int[][]
+        return merged.toArray(new int[merged.size()][]);
     }
 }
