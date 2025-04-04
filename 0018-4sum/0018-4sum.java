@@ -36,7 +36,8 @@ class Solution {
                         // skip the duplicates:
                         while (k < l && nums[k] == nums[k - 1]) k++;
                         while (k < l && nums[l] == nums[l + 1]) l--;
-                    } else if (sum < target) k++;
+                    }
+                    else if (sum < target) k++;
                     else l--;
                 }
             }
