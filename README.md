@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -219,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
