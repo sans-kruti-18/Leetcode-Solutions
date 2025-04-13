@@ -14,19 +14,22 @@
  * }
  */
 class Solution {
-    private void inorder(TreeNode root, List<Integer> arr) {
-        if (root == null) {
-            return;
-        }
-        inorder(root.left, arr);       // Traverse left subtree
-        arr.add(root.val);            // Visit current node
-        inorder(root.right, arr);     // Traverse right subtree
-    }
-
-    // Public method to be called
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        inorder(root, result);         // Perform inorder traversal
-        return result;                 // Return the result
-    }
+    List<Integer> result = new ArrayList<>();
+
+    // Inner recursive function
+    inorder(root, result);
+
+    return result;
+}
+
+// Helper method outside inorderTraversal
+private void inorder(TreeNode node, List<Integer> result) {
+    if (node == null) return;
+
+    inorder(node.left, result);
+    result.add(node.val);
+    inorder(node.right, result);
+}
+
 }
