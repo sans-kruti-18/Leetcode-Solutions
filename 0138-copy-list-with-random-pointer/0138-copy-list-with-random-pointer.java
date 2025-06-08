@@ -1,52 +1,53 @@
+/*
 // Definition for a Node.
-// class Node {
-//     int val;
-//     Node next;
-//     Node random;
+class Node {
+    int val;
+    Node next;
+    Node random;
 
-//     public Node(int val) {
-//         this.val = val;
-//         this.next = null;
-//         this.random = null;
-//     }
-// }
+    public Node(int val) {
+        this.val = val;
+        this.next = null;
+        this.random = null;
+    }
+}
+*/
 
 class Solution {
     public Node copyRandomList(Node head) {
         if (head == null) return null;
 
-        // Step 1: Insert copy nodes in between original nodes
-        Node temp = head;
-        while (temp != null) {
-            Node nextNode = temp.next;
-            Node copy = new Node(temp.val);
-            temp.next = copy;
-            copy.next = nextNode;
-            temp = nextNode;
+        // Step 1: Insert cloned nodes in between original nodes
+        Node curr = head;
+        while (curr != null) {
+            Node next = curr.next;
+            Node copy = new Node(curr.val);
+            curr.next = copy;
+            copy.next = next;
+            curr = next;
         }
 
-        // Step 2: Assign random pointers for the copy nodes
-        temp = head;
-        while (temp != null) {
-            if (temp.random != null) {
-                temp.next.random = temp.random.next;
+        // Step 2: Assign random pointers for the copied nodes
+        curr = head;
+        while (curr != null) {
+            if (curr.random != null) {
+                curr.next.random = curr.random.next;
             }
-            temp = temp.next.next;
+            curr = curr.next.next;
         }
 
-        // Step 3: Separate original and copied lists
-        temp = head;
-        Node pseudoHead = new Node(0);
-        Node copyCurrent = pseudoHead;
+        // Step 3: Separate the original list and the copied list
+        curr = head;
+        Node dummyHead = new Node(0);
+        Node copyCurr = dummyHead;
 
-        while (temp != null) {
-            Node copy = temp.next;
-            temp.next = copy.next; // restore original list
-            copyCurrent.next = copy;
-            copyCurrent = copy;
-            temp = temp.next;
+        while (curr != null) {
+            copyCurr.next = curr.next;
+            copyCurr = copyCurr.next;
+            curr.next = curr.next.next;
+            curr = curr.next;
         }
 
-        return pseudoHead.next;
+        return dummyHead.next;
     }
 }
