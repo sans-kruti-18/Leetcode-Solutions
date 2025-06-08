@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
