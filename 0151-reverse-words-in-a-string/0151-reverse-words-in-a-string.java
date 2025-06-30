@@ -20,13 +20,13 @@ class Solution {
                 ans.insert(0, word);
                 word.setLength(0);
                 
-                // Skip spaces between words
+                
                 while (left + 1 <= right && s.charAt(left + 1) == ' ') left++;
             }
             left++;
         }
         
-        // Append the last word
+       
         if (word.length() != 0) {
             if (ans.length() != 0) ans.insert(0, ' ');
             ans.insert(0, word);
