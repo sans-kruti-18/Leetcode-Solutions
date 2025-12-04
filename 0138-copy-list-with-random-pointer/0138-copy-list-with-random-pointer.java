@@ -17,7 +17,7 @@ class Solution {
     public Node copyRandomList(Node head) {
         if (head == null) return null;
 
-        // Step 1: Insert cloned nodes in between original nodes
+        // Insert cloned nodes in between original nodes
         Node curr = head;
         while (curr != null) {
             Node next = curr.next;
@@ -27,7 +27,7 @@ class Solution {
             curr = next;
         }
 
-        // Step 2: Assign random pointers for the copied nodes
+        //  Assign random pointers for the copied nodes
         curr = head;
         while (curr != null) {
             if (curr.random != null) {
@@ -36,7 +36,7 @@ class Solution {
             curr = curr.next.next;
         }
 
-        // Step 3: Separate the original list and the copied list
+        //  Separate the original list and the copied list
         curr = head;
         Node dummyHead = new Node(0);
         Node copyCurr = dummyHead;
