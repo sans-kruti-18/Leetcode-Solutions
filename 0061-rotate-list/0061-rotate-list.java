@@ -24,7 +24,8 @@ class Solution {
     temp.next = head;
     k = k%length; 
     int end = length-k; 
-    while(end--!=0) temp = temp.next;
+    while(end--!=0) 
+      temp = temp.next;
     
     head = temp.next;
     temp.next = null;
