@@ -17,7 +17,8 @@ class Solution {
                     j++;
                 } else if (sum > 0) {
                     k--;
-                } else {
+                } 
+                else {
                     result.add(Arrays.asList(nums[i], nums[j], nums[k]));
                     j++;
                     k--;
