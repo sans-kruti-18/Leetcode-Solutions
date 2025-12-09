@@ -11,11 +11,7 @@ class Solution {
             char ch=s.charAt(windowEnd);
             if(map.containsKey(ch) && map.get(ch)>=windowStart )
             {
-                // while(windowStart<windowEnd && set.contains(ch))
-                // {
-                //     set.remove(s.charAt(windowStart));
-                //     windowStart++;
-                // }
+               
                 windowStart=map.get(ch)+1;
             }
             // set.add(ch);
