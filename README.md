@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
