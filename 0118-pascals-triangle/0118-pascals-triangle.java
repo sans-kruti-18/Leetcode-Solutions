@@ -1,23 +1,23 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        
+        int n=numRows;
+
         List<List<Integer>> ans = new ArrayList<>();
 
-        for (int row = 1; row <= numRows; row++)
-         {
-            List<Integer> ansRow = new ArrayList<>();
-            long prod = 1;
-            ansRow.add(1); // First element 1
-
-            for (int col = 1; col < row; col++) 
+        for(int i=1;i<=n;i++)
+        {
+            List<Integer> row=new ArrayList<>();
+            long prod=1;
+            row.add(1);
+            for(int j=1;j<i;j++)
             {
-                prod = prod * (row - col);
-                prod = prod / col;
-                ansRow.add((int) prod);
+                prod = prod*(i-j);
+                prod=prod/j;
+                row.add((int)prod);
             }
-
-            ans.add(ansRow);
+            ans.add(row);
         }
+
         return ans;
         
     }
