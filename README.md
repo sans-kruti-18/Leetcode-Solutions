@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
