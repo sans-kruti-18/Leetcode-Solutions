@@ -1,28 +1,37 @@
 class Solution {
-    public int[][] merge(int[][] intervals) {
+    public int[][] merge(int[][] arr) {
         
-         if (intervals.length == 0) return new int[0][];
+        int n = arr.length;
+        if (n == 0) return new int[0][0];
+
         
-        // sort on start time
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
 
-        List<int[]> merged = new ArrayList<>();
+        int[][] res = new int[n][2];
+        int idx = 0;
 
-        // merge common intervsls
-        for (int[] interval : intervals)
-            {
-            
-            if (merged.isEmpty() || interval[0] > merged.get(merged.size() - 1)[1]) {
-                merged.add(interval);
+        res[0][0] = arr[0][0];
+        res[0][1] = arr[0][1];
+
+        for (int i = 1; i < n; i++) {
+            // Overlapping interval → merge
+            if (arr[i][0] <= res[idx][1]) {
+                res[idx][1] = Math.max(res[idx][1], arr[i][1]);
             } 
-            
-            else 
-            {
-                merged.get(merged.size() - 1)[1] = Math.max(merged.get(merged.size() - 1)[1], interval[1]);
+
+            else {
+                idx++;
+                res[idx][0] = arr[i][0];
+                res[idx][1] = arr[i][1];
             }
         }
 
+        // Copy only valid merged intervals
+        return Arrays.copyOf(res, idx + 1);
+
+
+
+
         
-        return merged.toArray(new int[merged.size()][]);
     }
 }
