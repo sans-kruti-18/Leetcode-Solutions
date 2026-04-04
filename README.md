@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Linked List
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
