@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
