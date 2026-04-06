@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
