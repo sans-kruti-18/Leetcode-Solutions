@@ -22,7 +22,7 @@ class Solution {
         }
 
         res = res + roman.get(s.charAt(s.length()-1));
-
         return res;
+        
     }
 }
