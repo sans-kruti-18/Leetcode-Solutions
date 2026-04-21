@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -439,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
