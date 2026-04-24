@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
