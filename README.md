@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2615-sum-of-distances](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Combinatorics
 |  |
