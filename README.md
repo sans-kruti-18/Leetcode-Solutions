@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
