@@ -10,8 +10,6 @@ class Solution {
         }
 
         return sum-sum2;
-
-
         
     }
 }
