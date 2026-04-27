@@ -16,27 +16,28 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
 
-        if(root==null)
-         return true;
-
-        int leftH= getH(root.left);
-        int rightH= getH(root.right);
-
-        if(Math.abs(leftH-rightH)<=1 && isBalanced(root.left) && isBalanced(root.right))
-         return true;
-
-        return false;
+       return dfs(root) != -1;
         
     }
 
-    public int getH(TreeNode root)
+    public int dfs(TreeNode root)
     {
         if(root==null)
          return 0;
 
-        int l=getH(root.left);
-        int r=getH(root.right);
+        int leftH=dfs(root.left);
+        if(leftH==-1)
+         return -1;
 
-        return 1+Math.max(l,r);
+        int rightH=dfs(root.right);
+        if(rightH==-1)
+         return -1;
+
+        if(Math.abs(leftH-rightH)>1)
+         return -1;
+
+        return 1+Math.max(leftH,rightH);
     }
+
+    
 }
