@@ -14,22 +14,17 @@
  * }
  */
 class Solution {
+   
+    List<Integer> res= new ArrayList<>();
+
     public List<Integer> inorderTraversal(TreeNode root) {
-    List<Integer> result = new ArrayList<>();
+        if(root==null)
+         return res;
 
-    // Inner recursive function
-    inorder(root, result);
+        inorderTraversal(root.left);
+        res.add(root.val);
+        inorderTraversal(root.right);
 
-    return result;
-}
-
-// Helper method outside inorderTraversal
-private void inorder(TreeNode node, List<Integer> result) {
-    if (node == null) return;
-
-    inorder(node.left, result);
-    result.add(node.val);
-    inorder(node.right, result);
-}
-
+        return res;
+    }
 }
