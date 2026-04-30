@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
