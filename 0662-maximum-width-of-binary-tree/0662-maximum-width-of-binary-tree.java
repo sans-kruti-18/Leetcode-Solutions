@@ -14,82 +14,57 @@
  * }
  */
 class Solution {
-     public int widthOfBinaryTree(TreeNode root) {
-        // If the root is null,
-        // the width is zero
-        if (root == null) {
-            return 0;
+    
+    static class Pair
+    {
+        TreeNode node;
+        int index;
+
+        Pair(TreeNode node,int index)
+        {
+            this.node=node;
+            this.index=index;
         }
+    }
 
-        // Initialize a variable 'ans'
-        // to store the maximum width
-        int ans = 0;
+    public int widthOfBinaryTree(TreeNode root) {
 
-        // Create a queue to perform level-order
-        // traversal, where each element is a pair
-        // of TreeNode and its position in the level
-        Queue<Pair<TreeNode, Integer>> q = new LinkedList<>();
-        // Push the root node and its
-        // position (0) into the queue
-        q.add(new Pair<>(root, 0));
+        if(root==null)
+         return 0;
 
-        // Perform level-order traversal
-        while (!q.isEmpty()) {
-            // Get the number of
-            // nodes at the current level
-            int size = q.size();
-            // Get the position of the front
-            // node in the current level
-            int mmin = q.peek().getValue();
+        int maxiW=0;
 
-            // Store the first and last positions
-            // of nodes in the current level
-            int first=0, last=0;
+        Queue<Pair> q=new LinkedList<>();
+        q.offer(new Pair(root,0));
 
-            // Process each node
-            // in the current level
-            for (int i = 0; i < size; i++) {
-                // Calculate current position relative
-                // to the minimum position in the level
-                int cur_id = q.peek().getValue() - mmin;
-                // Get the current node
-                TreeNode node = q.peek().getKey();
-                // Poll the front node from the queue
-                q.poll();
+        while(!q.isEmpty())
+        {
+            int size=q.size();
+            int miniIndex=q.peek().index;
+            int first=0,last=0;
 
-                // If this is the first node in the level,
-                // update the 'first' variable
-                if (i == 0) {
-                    first = cur_id;
-                }
+            for(int i=0;i<size;i++)
+            {
+                Pair p=q.poll();
+                TreeNode node=p.node;
+                int currIndex=p.index-miniIndex;
 
-                // If this is the last node in the level,
-                // update the 'last' variable
-                if (i == size - 1) {
-                    last = cur_id;
-                }
+                if(i==0)
+                 first=currIndex;
+                if(i==size-1)
+                 last=currIndex;
 
-                // Enqueue the left child of the
-                // current node with its position
-                if (node.left != null) {
-                    q.add(new Pair<>(node.left, cur_id * 2 + 1));
-                }
-
-                // Enqueue the right child of the
-                // current node with its position
-                if (node.right != null) {
-                    q.add(new Pair<>(node.right, cur_id * 2 + 2));
-                }
+                if(node.left!=null)
+                 q.offer(new Pair(node.left,2*currIndex+1));
+                if(node.right!=null)
+                 q.offer(new Pair(node.right,2*currIndex+2));
             }
 
-            // Update the maximum width by calculating
-            // the difference between the first and last
-            // positions, and adding 1
-            ans = Math.max(ans, last - first + 1);
+            maxiW= Math.max(maxiW,last-first+1);
         }
 
-        // Return the maximum
-        // width of the binary tree
-        return ans;
+        return maxiW;
+
+        
     }
 }
