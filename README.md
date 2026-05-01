@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
