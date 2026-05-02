@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
