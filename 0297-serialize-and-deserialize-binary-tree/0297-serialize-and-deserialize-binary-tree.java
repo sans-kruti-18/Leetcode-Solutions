@@ -31,8 +31,8 @@ public class Codec {
             else
             {
                 res.append(node.val+ " ");
-            q.add(node.left);
-            q.add(node.right);
+                q.add(node.left);
+                q.add(node.right);
             }
 
         }
