@@ -1,27 +1,34 @@
 class Solution {
-
     public int amountOfTime(TreeNode root, int start) {
         Map<Integer, Set<Integer>> map = new HashMap<>();
         convert(root, 0, map);
+
         Queue<Integer> queue = new LinkedList<>();
         queue.add(start);
+
         int minute = 0;
+        
         Set<Integer> visited = new HashSet<>();
         visited.add(start);
 
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty()) 
+        {
+            minute++;
             int levelSize = queue.size();
-            while (levelSize > 0) {
+            
+            while (levelSize > 0)
+            {
                 int current = queue.poll();
-                for (int num : map.get(current)) {
-                    if (!visited.contains(num)) {
+                for (int num : map.get(current))
+                 {
+                    if (!visited.contains(num))
+                    {
                         visited.add(num);
                         queue.add(num);
                     }
                 }
                 levelSize--;
             }
-            minute++;
         }
         return minute - 1;
     }
@@ -43,6 +50,7 @@ class Solution {
         if (current.right != null) {
             adjacentList.add(current.right.val);
         }
+
         convert(current.left, current.val, map);
         convert(current.right, current.val, map);
     }
