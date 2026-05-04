@@ -6,7 +6,7 @@ class Solution {
         Queue<Integer> queue = new LinkedList<>();
         queue.add(start);
 
-        int minute = 0;
+        int minute = -1;
         
         Set<Integer> visited = new HashSet<>();
         visited.add(start);
@@ -30,7 +30,7 @@ class Solution {
                 levelSize--;
             }
         }
-        return minute - 1;
+        return minute ;
     }
 
     public void convert(TreeNode current,int parent,Map<Integer, Set<Integer>> map) {
