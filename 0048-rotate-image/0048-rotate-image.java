@@ -3,6 +3,7 @@ class Solution {
 
         int n=matrix.length;
         
+        //transpose
         for(int i=0;i<n;i++)        
         {
             for(int j=i;j<n;j++)
@@ -13,6 +14,7 @@ class Solution {
             }
         }
 
+        //reverse rows
         for(int i=0;i<n;i++)
         {
             int left=0,right=n-1;
