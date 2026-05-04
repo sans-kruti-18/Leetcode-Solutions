@@ -25,12 +25,15 @@ public class Codec {
             if(node==null)
             {
                 res.append("# ");
-                continue;
+                //continue;
             }
 
-            res.append(node.val+ " ");
+            else
+            {
+                res.append(node.val+ " ");
             q.add(node.left);
             q.add(node.right);
+            }
 
         }
 
