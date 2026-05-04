@@ -1,55 +1,49 @@
 class Solution {
-    public int amountOfTime(TreeNode root, int target) {
-       
-        Map<Integer, List<Integer>> mapToParent = new HashMap<>();
-        
-        buildGraph(root, null, mapToParent);
-        
-        Set<Integer> visited = new HashSet<>();
 
+    public int amountOfTime(TreeNode root, int start) {
+        Map<Integer, Set<Integer>> map = new HashMap<>();
+        convert(root, 0, map);
         Queue<Integer> queue = new LinkedList<>();
-        queue.offer(target);
-        visited.add(target);
-
-        int time = 0;
+        queue.add(start);
+        int minute = 0;
+        Set<Integer> visited = new HashSet<>();
+        visited.add(start);
 
         while (!queue.isEmpty()) {
-            int size = queue.size();
-            boolean burned = false;
-
-            for (int i = 0; i < size; i++) {
-                int node = queue.poll();
-             
-                for (int neighbor : mapToParent.getOrDefault(node, new ArrayList<>())) {
-                    if (!visited.contains(neighbor)) {
-                        visited.add(neighbor);
-                        queue.offer(neighbor);
-                        burned = true;
+            int levelSize = queue.size();
+            while (levelSize > 0) {
+                int current = queue.poll();
+                for (int num : map.get(current)) {
+                    if (!visited.contains(num)) {
+                        visited.add(num);
+                        queue.add(num);
                     }
                 }
+                levelSize--;
             }
-
-            if (burned) {
-                time++;
-            }
+            minute++;
         }
-
-        return time;
+        return minute - 1;
     }
 
-   
-    private void buildGraph(TreeNode node, TreeNode parent, Map<Integer, List<Integer>> mapToParent) {
-       
-        if (node == null) return;
-
-        // If parent exists, add bidirectional connection
-        if (parent != null) {
-            mapToParent.computeIfAbsent(node.val, k -> new ArrayList<>()).add(parent.val);
-            mapToParent.computeIfAbsent(parent.val, k -> new ArrayList<>()).add(node.val);
+    public void convert(TreeNode current,int parent,Map<Integer, Set<Integer>> map) {
+        if (current == null) {
+            return;
         }
-
-        // Recursively build mapToParent for left and right children
-        buildGraph(node.left, node, mapToParent);
-        buildGraph(node.right, node, mapToParent);
+        if (!map.containsKey(current.val)) {
+            map.put(current.val, new HashSet<>());
+        }
+        Set<Integer> adjacentList = map.get(current.val);
+        if (parent != 0) {
+            adjacentList.add(parent);
+        }
+        if (current.left != null) {
+            adjacentList.add(current.left.val);
+        }
+        if (current.right != null) {
+            adjacentList.add(current.right.val);
+        }
+        convert(current.left, current.val, map);
+        convert(current.right, current.val, map);
     }
 }
