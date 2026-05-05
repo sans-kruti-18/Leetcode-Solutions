@@ -9,28 +9,48 @@
  * }
  */
 class Solution {
-    public ListNode rotateRight(ListNode head, int k) {
 
-         if(head == null||head.next == null||k == 0) 
-           return head;
-         ListNode temp = head;
-         int length = 1;
-         while(temp.next != null)
-         {
-            length++;
-            temp = temp.next;
-         }
-   
-    temp.next = head;
-    k = k%length; 
-    int end = length-k; 
-    while(end--!=0) 
-      temp = temp.next;
-    
-    head = temp.next;
-    temp.next = null;
+   public ListNode findKnode(ListNode temp,int k)
+   {
+       k-=1;
+       while(temp!=null && k>0)
+       {
+        temp=temp.next;
+        k--;
+       }
+
+       return temp;
+
+   }
+
+    public ListNode rotateRight(ListNode head, int k) {
         
-    return head;
+        if(head==null || head.next==null || k==0)
+         return head;
+
+        ListNode tail=head;
+        int len=1;
+
+        while(tail.next!=null)
+        {
+            len++;
+            tail=tail.next;
+        }
+
+       
+
+        if(k%len == 0)
+         return head;
+
+        tail.next=head;
+        k=k%len;
+
+        ListNode kthNode = findKnode(head,len-k);
+        head=kthNode.next;
+        kthNode.next=null;
+
+        return head;
+
         
     }
 }
