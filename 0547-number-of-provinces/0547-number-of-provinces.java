@@ -1,26 +1,49 @@
 class Solution {
-
     public int findCircleNum(int[][] isConnected) {
-        int n = isConnected.length;
-        boolean[] visited = new boolean[n];
-        int count = 0;
+        int v=isConnected.length;
+        List<List<Integer>> adj=new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                count++;
-                dfs(i, isConnected, visited);
+        for(int i=0;i<v;i++)
+        {
+            adj.add(new ArrayList<>());
+        }
+
+        for(int i=0;i<v;i++)
+        {
+            for(int j=0;j<v;j++)
+            {
+                if (isConnected[i][j] == 1 && i != j)
+                {
+                  adj.get(i).add(j);
+                  adj.get(j).add(i);
+                }
             }
         }
-        return count;
+
+        boolean[] visited=new boolean[v+1];
+        int cnt=0;
+
+        for(int i=0;i<v;i++)
+        {
+            if(!visited[i])
+            {
+                cnt++;
+                dfs(i,adj,visited);
+            }
+        }
+
+        return cnt;       
     }
 
-    private void dfs(int city, int[][] isConnected, boolean[] visited) {
-        visited[city] = true;
+    public void dfs(int node,List<List<Integer>> adj,boolean[] visited)
+    {
+        visited[node]=true;
 
-        for (int j = 0; j < isConnected.length; j++) {
-            if (isConnected[city][j] == 1 && !visited[j]) {
-                dfs(j, isConnected, visited);
-            }
+        for(int neighbour:adj.get(node))
+        {
+            if(!visited[neighbour])
+              dfs(neighbour,adj,visited);
         }
+
     }
 }
