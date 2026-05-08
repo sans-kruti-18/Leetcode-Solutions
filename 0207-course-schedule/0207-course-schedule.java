@@ -14,7 +14,7 @@ class Solution {
                     return true;
             }
             else if (pathVis[neighbour]) {
-                // cycle detected
+                
                 return true;
             }
         }
@@ -25,7 +25,7 @@ class Solution {
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
 
-        // Build adjacency list
+        
         List<List<Integer>> adj = new ArrayList<>();
         for (int i = 0; i < numCourses; i++)
             adj.add(new ArrayList<>());
@@ -42,10 +42,10 @@ class Solution {
         for (int i = 0; i < numCourses; i++) {
             if (!vis[i]) {
                 if (dfs(i, adj, vis, pathVis))
-                    return false; // cycle found
+                    return false; 
             }
         }
 
-        return true; // no cycle
+        return true; 
     }
 }
