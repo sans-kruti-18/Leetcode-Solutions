@@ -25,6 +25,10 @@ class Solution {
         int[] drow={-1,0,1,0};
         int[] dcol={0,1,0,-1};
 
+        
+        if (iniCol == color) 
+            return image;
+        
         dfs(sr,sc,image,ans,drow,dcol,iniCol,color);
 
         return ans;
