@@ -13,8 +13,8 @@ class Solution {
                 if (dfs(neighbour, adj, vis, pathVis))
                     return true;
             }
-            else if (pathVis[neighbour]) {
-                
+            else if (pathVis[neighbour]) 
+            {                
                 return true;
             }
         }
