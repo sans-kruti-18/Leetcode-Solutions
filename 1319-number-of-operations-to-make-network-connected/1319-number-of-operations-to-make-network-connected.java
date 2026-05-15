@@ -1,44 +1,70 @@
-class Solution {
-     private int find(int[] parent, int x) {
-        if (parent[x] != x)
-            parent[x] = find(parent, parent[x]);
-        return parent[x];
-    }
+import java.util.*;
 
-    // Union by rank
-    private void union(int[] parent, int[] rank, int x, int y) {
-        int px = find(parent, x);
-        int py = find(parent, y);
-        if (px == py) return;
+public class Solution {
 
-        if (rank[px] < rank[py]) parent[px] = py;
-        else if (rank[px] > rank[py]) parent[py] = px;
-        else {
-            parent[py] = px;
-            rank[px]++;
-        }
-    }
-    
-    // Function to find minimum operations to make the graph connected
     public int makeConnected(int n, int[][] connections) {
-        // If not enough edges, return -1
-        if (connections.length < n - 1) return -1;
 
         int[] parent = new int[n];
         int[] rank = new int[n];
 
         // Initialize parent
-        for (int i = 0; i < n; i++) parent[i] = i;
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
 
-        // Union all edges
-        for (int[] edge : connections)
-            union(parent, rank, edge[0], edge[1]);
+        int extraEdges = 0;
 
-        // Count unique parents
-        Set<Integer> components = new HashSet<>();
-        for (int i = 0; i < n; i++)
-            components.add(find(parent, i));
+        // Process each connection
+        for (int[] edge : connections) {
+            int u = edge[0];
+            int v = edge[1];
 
-        return components.size() - 1;
+            int pu = find(parent, u);
+            int pv = find(parent, v);
+
+            // If both have same parent → extra edge
+            if (pu == pv) {
+                extraEdges++;
+            } else {
+                union(parent, rank, pu, pv);
+            }
+        }
+
+        // Count number of components
+        int components = 0;
+        for (int i = 0; i < n; i++) {
+            if (find(parent, i) == i) {
+                components++;
+            }
+        }
+
+        int neededEdges = components - 1;
+
+        // Check if we can connect all components
+        if (extraEdges >= neededEdges) {
+            return neededEdges;
+        }
+
+        return -1;
+    }
+
+    // Find with path compression
+    private int find(int[] parent, int x) {
+        if (parent[x] != x) {
+            parent[x] = find(parent, parent[x]);
+        }
+        return parent[x];
+    }
+
+    // Union by rank
+    private void union(int[] parent, int[] rank, int x, int y) {
+        if (rank[x] < rank[y]) {
+            parent[x] = y;
+        } else if (rank[x] > rank[y]) {
+            parent[y] = x;
+        } else {
+            parent[y] = x;
+            rank[x]++;
+        }
     }
 }
