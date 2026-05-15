@@ -1,84 +1,96 @@
-import java.util.*;
+class Dis
+{
+    int[] parent,size;
 
-class DisjointSet {
-    int[] parent, size;
+    Dis(int n)
+    {
+        parent= new int[n];
+        size=new int[n];
 
-    DisjointSet(int n) {
-        parent = new int[n];
-        size = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-            size[i] = 1;
+        for(int i=0;i<n;i++)
+        {
+            parent[i]=i;
+            size[i]=1;
         }
     }
 
-    int findUPar(int node) {
-        if (node == parent[node]) return node;
-        return parent[node] = findUPar(parent[node]);
+    int findUPar(int node)
+    {
+        if(node==parent[node])
+         return node;
+
+        return parent[node]=findUPar(parent[node]);
     }
 
-    void unionBySize(int u, int v) {
-        int pu = findUPar(u);
-        int pv = findUPar(v);
+    void union(int u,int v)
+    {
+        int pu=findUPar(u);
+        int pv=findUPar(v);
 
-        if (pu == pv) return;
+        if(pu==pv)
+         return;
 
-        if (size[pu] < size[pv]) {
-            parent[pu] = pv;
+        if(size[pu]<size[pv])
+        {
+            parent[pu]=pv;
             size[pv] += size[pu];
-        } else {
-            parent[pv] = pu;
+        }
+        else
+        {
+            parent[pv]=pu;
             size[pu] += size[pv];
         }
+
     }
 }
 
 class Solution {
-    public List<List<String>> accountsMerge(List<List<String>> accounts) {
+    public List<List<String>> accountsMerge(List<List<String>> acc) {
+        int n= acc.size();
+        Dis ds= new Dis(n);
 
-        int n = accounts.size();
-        DisjointSet ds = new DisjointSet(n);
+        Map<String,Integer> mailMap=new HashMap<>();
 
-        Map<String, Integer> mailMap = new HashMap<>();
+        for(int i=0;i<n;i++)
+        {
+            for(int j=1;j<acc.get(i).size();j++)
+            {
+                String mail=acc.get(i).get(j);
 
-        // Step 1: Union accounts with common emails
-        for (int i = 0; i < n; i++) {
-            for (int j = 1; j < accounts.get(i).size(); j++) {
-                String mail = accounts.get(i).get(j);
-
-                if (!mailMap.containsKey(mail)) {
-                    mailMap.put(mail, i);
-                } else {
-                    ds.unionBySize(i, mailMap.get(mail));
-                }
+                if(!mailMap.containsKey(mail))
+                  mailMap.put(mail,i);
+                else
+                  ds.union(i,mailMap.get(mail));
             }
         }
 
-        // Step 2: Group emails by parent
-        List<String>[] merged = new ArrayList[n];
-        for (int i = 0; i < n; i++) merged[i] = new ArrayList<>();
+        List<String>[] merged= new ArrayList[n];
+        for(int i=0;i<n;i++)
+          merged[i]= new ArrayList<>();
 
-        for (String mail : mailMap.keySet()) {
-            int parent = ds.findUPar(mailMap.get(mail));
+        for(String mail:mailMap.keySet())
+        {
+            int parent=ds.findUPar(mailMap.get(mail));
             merged[parent].add(mail);
         }
 
-        // Step 3: Build final result
-        List<List<String>> result = new ArrayList<>();
+        List<List<String>> res=new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            if (merged[i].isEmpty()) continue;
+        for(int i=0;i<n;i++)
+        {
+            if(merged[i].isEmpty())
+             continue;
 
             Collections.sort(merged[i]);
 
-            List<String> temp = new ArrayList<>();
-            temp.add(accounts.get(i).get(0));
+            List<String> temp= new ArrayList<>();
+            temp.add(acc.get(i).get(0));
             temp.addAll(merged[i]);
 
-            result.add(temp);
+            res.add(temp);
         }
 
-        return result;
+        return res;
+
     }
 }
