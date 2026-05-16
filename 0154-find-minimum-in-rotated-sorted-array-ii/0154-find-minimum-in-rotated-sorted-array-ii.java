@@ -12,7 +12,7 @@ class Solution {
             else if (nums[mid] > nums[r]) {
                 l = mid + 1;
             }
-            // duplicates
+            
             else {
                 r--;
             }
