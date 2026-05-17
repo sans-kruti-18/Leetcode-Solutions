@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1306-jump-game-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
