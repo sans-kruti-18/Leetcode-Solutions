@@ -2,40 +2,41 @@ import java.util.*;
 
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        // Creating dp array initialized with -2
-        int[] dp = new int[amount + 1];
-        Arrays.fill(dp, -2);
+       int n=coins.length;
 
-        // Calling helper function
-        return helper(coins, amount, dp);
+       int[][] dp = new int[n][amount+1];
+
+       for(int target=0;target<=amount;target++)
+       {
+        if(target%coins[0]==0)
+          dp[0][target] = target/coins[0];
+        else
+          dp[0][target] = (int)(1e9);
+       }
+
+       for(int ind=1;ind<n;ind++)
+       {
+         for(int target=0;target<=amount;target++)
+         {
+            int not = 0 + dp[ind-1][target];
+
+            int take= Integer.MAX_VALUE;
+            if(coins[ind]<=target)
+              take= 1 + dp[ind][target-coins[ind]];
+
+            dp[ind][target] = Math.min(take,not);
+         }
+
+       }
+
+       int ans = dp[n-1][amount];
+
+       if(ans >= (int)(1e9))
+         return -1;
+
+        return ans;
+   
+   
     }
-
-    // Helper recursive function
-    private int helper(int[] coins, int rem, int[] dp) {
-        // If remaining amount is zero
-        if (rem == 0) return 0;
-
-        // If remaining amount is negative
-        if (rem < 0) return -1;
-
-        // If already computed
-        if (dp[rem] != -2) return dp[rem];
-
-        // Initialize minimum with large value
-        int mini = Integer.MAX_VALUE;
-
-        // Try every coin
-        for (int coin : coins) {
-            // Recursive call
-            int res = helper(coins, rem - coin, dp);
-
-            // If result is valid
-            if (res >= 0 && res < mini)
-                mini = 1 + res;
-        }
-
-        // Store result in dp
-        dp[rem] = (mini == Integer.MAX_VALUE) ? -1 : mini;
-        return dp[rem];
-    }
+ 
 }
