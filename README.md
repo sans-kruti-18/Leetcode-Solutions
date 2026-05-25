@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1871-jump-game-vii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Trie
