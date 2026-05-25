@@ -31,6 +31,6 @@ class Solution {
 
         dp[ind][buy]=profit;
 
-        return profit;
+        return dp[ind][buy];
     }
 }
