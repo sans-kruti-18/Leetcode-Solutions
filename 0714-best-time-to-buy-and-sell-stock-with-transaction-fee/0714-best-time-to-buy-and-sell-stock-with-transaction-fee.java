@@ -15,9 +15,9 @@ class Solution {
                 int profit;
 
                 if(buy==0)
-                 profit= Math.max(0 + dp[ind+1][0], -prices[ind]+ dp[ind+1][1]);
+                 profit= Math.max(0 + dp[ind+1][0], -prices[ind]+ dp[ind+1][1]-fee);
                 else
-                 profit=Math.max(0 + dp[ind+1][1], prices[ind]+ dp[ind+1][0]-fee);
+                 profit=Math.max(0 + dp[ind+1][1], prices[ind]+ dp[ind+1][0]);
 
                 dp[ind][buy]=profit;
             }
