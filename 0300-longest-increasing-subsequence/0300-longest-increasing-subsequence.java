@@ -1,29 +1,25 @@
 class Solution {
-    public int lengthOfLIS(int[] arr) {
-        int n=arr.length;
-        int[][] dp=new int[n][n+1];
+    public int lengthOfLIS(int[] nums) {
+        int[] temp = new int[nums.length];
+        int len = 0;
 
-        for(int[] row:dp)
-         Arrays.fill(row,-1);
+        for (int num : nums) {
+            int l = 0, r = len - 1, ans = len;
 
-        return solve(0,-1,arr,n,dp);
-    }
+            while (l <= r) {
+                int mid = (l + r) / 2;
+                if (temp[mid] >= num) {
+                    ans = mid;
+                    r = mid - 1;
+                } else {
+                    l = mid + 1;
+                }
+            }
 
-    public int solve(int ind,int prev_ind,int[] arr,int n,int[][] dp)
-    {
-        if(ind==n)
-         return 0;
+            temp[ans] = num;
+            if (ans == len) len++;
+        }
 
-        if(dp[ind][prev_ind+1] != -1)
-         return dp[ind][prev_ind+1];
-
-        int notTake = 0 + solve(ind+1,prev_ind,arr,n,dp);
-
-        int take=0;
-        if(prev_ind== -1 || arr[ind]>arr[prev_ind])
-          take = 1 + solve(ind+1,ind,arr,n,dp);
-
-        return dp[ind][prev_ind+1]=Math.max(take,notTake);
-
+        return len;
     }
 }
