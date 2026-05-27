@@ -5,6 +5,7 @@ class Solution {
         int[] firstUp = new int[26];
         Arrays.fill(lastLow, -1);
         Arrays.fill(firstUp, -1);
+
         for (int i = 0; i < word.length(); i++) {
             char c = word.charAt(i);
             if (Character.isLowerCase(c)) {
@@ -15,11 +16,11 @@ class Solution {
                 }
             }
         }
+
         int ans = 0;
         for (int i = 0; i < 26; i++) {
-            if (
-                lastLow[i] != -1 && firstUp[i] != -1 && lastLow[i] < firstUp[i]
-            ) {
+            if (lastLow[i] != -1 && firstUp[i] != -1 && lastLow[i] < firstUp[i])
+             {
                 ans++;
             }
         }
