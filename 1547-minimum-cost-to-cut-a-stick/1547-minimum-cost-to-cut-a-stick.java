@@ -12,7 +12,7 @@ class Solution {
 
         Arrays.sort(cuts);
 
-        int[][] dp= new int[c+1][c+2];
+        int[][] dp= new int[c+2][c+2];
         for(int[] row:dp )
          Arrays.fill(row,-1);
 
