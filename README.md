@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1106-parsing-a-boolean-expression](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
