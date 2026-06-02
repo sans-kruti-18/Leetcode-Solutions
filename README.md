@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0788-rotated-digits) |
+| [1043-partition-array-for-maximum-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
