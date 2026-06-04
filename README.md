@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0494-target-sum) |
