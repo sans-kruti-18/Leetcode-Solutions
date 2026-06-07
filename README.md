@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2615-sum-of-distances](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Database
 |  |
