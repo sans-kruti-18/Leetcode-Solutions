@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3379-score-of-a-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
