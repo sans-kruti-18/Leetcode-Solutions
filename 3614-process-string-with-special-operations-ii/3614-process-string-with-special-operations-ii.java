@@ -2,7 +2,8 @@ class Solution {
 
     public char processStr(String s, long k) {
         long len = 0;
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++)
+         {
             char c = s.charAt(i);
             switch (c) {
                 case '*':
@@ -23,7 +24,8 @@ class Solution {
         if (k + 1 > len) {
             return '.';
         }
-        for (int i = s.length() - 1; i >= 0; i--) {
+        for (int i = s.length() - 1; i >= 0; i--) 
+        {
             char c = s.charAt(i);
             switch (c) {
                 case '*':
