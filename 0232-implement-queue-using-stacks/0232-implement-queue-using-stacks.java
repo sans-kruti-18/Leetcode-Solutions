@@ -2,38 +2,37 @@ import java.util.*;
 
 class MyQueue {
 
-    private Stack<Integer> st1;
-    private Stack<Integer> st2;
+    private Stack<Integer> input;
+    private Stack<Integer> output;
 
     public MyQueue() {
-        st1 = new Stack<>();
-        st2 = new Stack<>();
+        input = new Stack<>();
+        output = new Stack<>();
     }
     
     public void push(int x) {
-        // Move all elements from st1 to st2
-        while (!st1.isEmpty()) {
-            st2.push(st1.pop());
-        }
-
-        // Push new element into st1
-        st1.push(x);
-
-        // Move everything back to st1
-        while (!st2.isEmpty()) {
-            st1.push(st2.pop());
-        }
+        input.push(x);
     }
     
     public int pop() {
-        return st1.pop();
+        if (output.isEmpty()) {
+            while (!input.isEmpty()) {
+                output.push(input.pop());
+            }
+        }
+        return output.pop();
     }
     
     public int peek() {
-        return st1.peek();
+        if (output.isEmpty()) {
+            while (!input.isEmpty()) {
+                output.push(input.pop());
+            }
+        }
+        return output.peek();
     }
     
     public boolean empty() {
-        return st1.isEmpty();
+        return input.isEmpty() && output.isEmpty();
     }
 }
