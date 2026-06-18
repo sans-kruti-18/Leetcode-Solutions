@@ -1,24 +1,25 @@
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 class MyStack {
-    Queue<Integer> q;
+
+    private Queue<Integer> q;
 
     public MyStack() {
         q = new LinkedList<>();
     }
     
     public void push(int x) {
-        q.add(x);
         int size = q.size();
-        // Move all previous elements behind the new one
-        for (int i = 0; i < size - 1; i++) {
-            q.add(q.remove());
+        q.add(x);
+        
+        // Move previous elements behind new one
+        for (int i = 0; i < size; i++) {
+            q.add(q.poll());
         }
     }
     
     public int pop() {
-        return q.remove();
+        return q.poll();
     }
     
     public int top() {
@@ -29,12 +30,3 @@ class MyStack {
         return q.isEmpty();
     }
 }
-
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack obj = new MyStack();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.top();
- * boolean param_4 = obj.empty();
- */
