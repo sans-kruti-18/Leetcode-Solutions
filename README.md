@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1871-jump-game-vii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 ## Binary Search
