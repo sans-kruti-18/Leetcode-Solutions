@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2104-sum-of-subarray-ranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0937-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
