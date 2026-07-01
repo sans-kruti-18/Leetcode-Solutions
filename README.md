@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Data Stream
 |  |
@@ -957,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
