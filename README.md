@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Tree
 |  |
