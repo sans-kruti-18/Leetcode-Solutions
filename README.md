@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
