@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0788-rotated-digits) |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1200,4 +1204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0460-lfu-cache) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
