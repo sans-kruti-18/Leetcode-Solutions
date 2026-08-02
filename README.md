@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
@@ -1208,4 +1211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
