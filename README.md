@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1901-find-a-peak-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
+| [1901-find-a-peak-element-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
