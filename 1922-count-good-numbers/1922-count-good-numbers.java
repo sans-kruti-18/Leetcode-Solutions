@@ -2,24 +2,26 @@ class Solution {
     static final long MOD = 1000000007;
 
     public int countGoodNumbers(long n) {
+
         long even = (n + 1) / 2;
         long odd = n / 2;
 
-        long ans = (pow(5, even) * pow(4, odd)) % MOD;
+        long ans = (power(5, even) * power(4, odd)) % MOD;
 
         return (int) ans;
     }
 
-    private long pow(long x, long n) {
-        if (n == 0) return 1;
+    public long power(long x, long n) {
 
-        long half = pow(x, n / 2);
+        if (n == 0)
+            return 1;
 
-        long res = (half * half) % MOD;
+        if (n == 1)
+            return x;
 
-        if (n % 2 == 1)
-            res = (res * x) % MOD;
+        if (n % 2 == 0)
+            return power((x * x) % MOD, n / 2);
 
-        return res;
+        return (x * power(x, n - 1)) % MOD;
     }
 }
