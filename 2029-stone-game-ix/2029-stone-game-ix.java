@@ -20,3 +20,4 @@ class Solution {
         return cnt1 - cnt2 > 2 || cnt2 - cnt1 > 2;
     }
 }
+
