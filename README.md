@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3161-block-placement-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
@@ -1136,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
