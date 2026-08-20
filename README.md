@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1563-stone-game-v) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
