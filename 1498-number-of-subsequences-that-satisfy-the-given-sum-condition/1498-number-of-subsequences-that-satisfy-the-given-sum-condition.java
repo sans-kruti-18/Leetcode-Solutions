@@ -6,28 +6,30 @@ class Solution {
 
         Arrays.sort(nums);
 
-        int[] power = new int[n];
-        power[0] = 1;
+        int[] subseq = new int[n];
+        subseq[0] = 1;
 
-        for (int i = 1; i < n; i++) {
-            power[i] = (int)((power[i - 1] * 2L) % MOD);
-        }
+        for (int i = 1; i < n; i++) 
+            subseq[i] = (int)((subseq[i - 1] * 2L) % MOD);
+        
 
         int left = 0;
         int right = n - 1;
         long ans = 0;
 
-        while (left <= right) {
+        while (left <= right) 
+        {
 
-            if (nums[left] + nums[right] <= target) {
+            if (nums[left] + nums[right] <= target) 
+            {
 
-                ans = (ans + power[right - left]) % MOD;
+                ans = (ans + subseq[right - left]) % MOD;
                 left++;
 
-            } else {
-
+            } 
+            else 
                 right--;
-            }
+            
         }
 
         return (int) ans;
