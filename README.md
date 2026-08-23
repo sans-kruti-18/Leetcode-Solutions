@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1871-jump-game-vii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1314,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
