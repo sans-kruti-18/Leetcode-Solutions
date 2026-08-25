@@ -5,10 +5,10 @@ class Solution {
         for (int num : nums)
             seen.add(num);
         
-        int ans = k;
-        while (seen.contains(ans)) 
-            ans += k;
+        int mult = k;
+        while (seen.contains(mult)) 
+            mult += k;
         
-        return ans;
+        return mult;
     }
 }
