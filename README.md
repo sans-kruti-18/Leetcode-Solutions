@@ -1422,4 +1422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
