@@ -1,14 +1,14 @@
 class Solution {
+
     public int[] gardenNoAdj(int n, int[][] paths) {
 
         List<Integer>[] adj = new ArrayList[n];
 
-        for (int i = 0; i < n; i++) 
+        for (int i = 0; i < n; i++) {
             adj[i] = new ArrayList<>();
-        
+        }
 
-        for (int[] path : paths) 
-        {
+        for (int[] path : paths) {
             int u = path[0] - 1;
             int v = path[1] - 1;
 
@@ -16,28 +16,46 @@ class Solution {
             adj[v].add(u);
         }
 
-        int[] ans = new int[n];
+        int[] color = new int[n];
 
-        for (int i = 0; i < n; i++) 
-        {
+        solve(0, adj, color, n);
 
-            boolean[] used = new boolean[5];
+        return color;
+    }
 
-            for (int neigh : adj[i]) 
-                used[ans[neigh]] = true;
-            
+    private boolean solve(int node, List<Integer>[] adj,
+                          int[] color, int n) {
 
-            for (int flower = 1; flower <= 4; flower++) 
-            {
+        if (node == n) {
+            return true;
+        }
 
-                if (!used[flower]) 
-                {
-                    ans[i] = flower;
-                    break;
-                }
+        for (int col = 1; col <= 4; col++) {
+
+            if (isSafe(node, col, adj, color)) {
+
+                color[node] = col;
+
+                if (solve(node + 1, adj, color, n))
+                    return true;
+
+                color[node] = 0;
             }
         }
 
-        return ans;
+        return false;
+    }
+
+    private boolean isSafe(int node, int col,
+                           List<Integer>[] adj,
+                           int[] color) {
+
+        for (int neigh : adj[node]) {
+
+            if (color[neigh] == col)
+                return false;
+        }
+
+        return true;
     }
 }
