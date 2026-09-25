@@ -4,11 +4,12 @@ class Solution {
 
         List<Integer>[] adj = new ArrayList[n];
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) 
             adj[i] = new ArrayList<>();
-        }
+        
 
-        for (int[] path : paths) {
+        for (int[] path : paths) 
+        {
             int u = path[0] - 1;
             int v = path[1] - 1;
 
@@ -26,13 +27,15 @@ class Solution {
     private boolean solve(int node, List<Integer>[] adj,
                           int[] color, int n) {
 
-        if (node == n) {
+        if (node == n) 
             return true;
-        }
+        
 
-        for (int col = 1; col <= 4; col++) {
+        for (int col = 1; col <= 4; col++) 
+        {
 
-            if (isSafe(node, col, adj, color)) {
+            if (isSafe(node, col, adj, color)) 
+            {
 
                 color[node] = col;
 
@@ -48,9 +51,11 @@ class Solution {
 
     private boolean isSafe(int node, int col,
                            List<Integer>[] adj,
-                           int[] color) {
+                           int[] color) 
+    {
 
-        for (int neigh : adj[node]) {
+        for (int neigh : adj[node]) 
+        {
 
             if (color[neigh] == col)
                 return false;
