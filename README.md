@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
