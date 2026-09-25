@@ -1434,9 +1434,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0051-n-queens) |
 ## Graph Coloring
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
