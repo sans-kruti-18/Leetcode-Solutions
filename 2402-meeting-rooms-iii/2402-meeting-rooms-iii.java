@@ -6,9 +6,9 @@ class Solution {
 
         PriorityQueue<Integer> freeRooms = new PriorityQueue<>();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) 
             freeRooms.offer(i);
-        }
+        
 
         PriorityQueue<long[]> busyRooms =
                 new PriorityQueue<>(
