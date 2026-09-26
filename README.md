@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2402-meeting-rooms-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2402-meeting-rooms-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2615-sum-of-distances](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2402-meeting-rooms-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2402-meeting-rooms-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -1251,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2402-meeting-rooms-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
