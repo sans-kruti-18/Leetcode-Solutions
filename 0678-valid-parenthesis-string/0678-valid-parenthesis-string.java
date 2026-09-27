@@ -1,29 +1,29 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int minOpen = 0;
-        int maxOpen = 0;
+        int min = 0;
+        int max = 0;
 
         for (char ch : s.toCharArray()) {
 
             if (ch == '(') {
-                minOpen++;
-                maxOpen++;
+                min++;
+                max++;
             }
             else if (ch == ')') {
-                minOpen--;
-                maxOpen--;
+                min--;
+                max--;
             }
             else { // *
-                minOpen--;
-                maxOpen++;
+                min--;
+                max++;
             }
 
-            if (maxOpen < 0)
+            if (max < 0)
                 return false;
 
-            minOpen = Math.max(0, minOpen);
+            min = Math.max(0, min);
         }
 
-        return minOpen == 0;
+        return min == 0;
     }
 }
