@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0917-boats-to-save-people](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
