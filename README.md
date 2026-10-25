@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1345-jump-game-iv) |
@@ -1292,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1192-critical-connections-in-a-network](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1375,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
