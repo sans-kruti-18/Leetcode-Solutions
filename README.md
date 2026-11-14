@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -1126,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1192,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1217,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
