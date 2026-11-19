@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2463-minimum-total-distance-traveled](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
