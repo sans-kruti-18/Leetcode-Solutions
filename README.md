@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1707,4 +1710,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sans-kruti-18/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
